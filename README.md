@@ -1,1 +1,1 @@
-[![PowerShell Setup Button](./button.png)](https://github.io)
+[![PowerShell Setup Button](./src/button.png)](https://github.io)
